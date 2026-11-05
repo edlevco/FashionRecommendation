@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data: H&M data is non-commercial, and these files are huge
+data/
+vectors/
+*.parquet
+*.pt
